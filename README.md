@@ -5,5 +5,8 @@ Soy de Uruguay, siempre me llamo la atencion y quise estudiar programacion, por 
 
 Skills//Experiencia:  JS / REACT / HTML / CSS/ Bootstrap4
 
-- 🔭 Actualmente estoy buscando mi primer empleo, si estas buscando una joven que le gusta lo que se hace, que no se cierra a segur aprendiendo, no dudes en hablarme.
+- 🔭 Actualmente estoy buscando mi primer empleo.
+
+
+
 Correo: carolainsilva1@gmail.com
