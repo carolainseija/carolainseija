@@ -3,7 +3,7 @@
 #### I am junior programmer // soy programadora Junior en Javascript
 Soy de Uruguay, siempre me llamo la atencion y quise estudiar programacion, por diferentes motivos retrasaba el poder hacerlo, hoy en dia  que aprendi y aun me queda mucho por aprender,descubri que me gusta programar mas de lo que pensaba!!
 
-Skills:  REACT / JS / HTML / CSS/ Bootstrap4
+Skills//Experiencia:  JS / REACT / HTML / CSS/ Bootstrap4
 
 - 🔭 Actualmente estoy buscando mi primer empleo, si estas buscando una joven que le gusta lo que se hace, que no se cierra a segur aprendiendo, no dudes en hablarme.
 Correo: carolainsilva1@gmail.com
