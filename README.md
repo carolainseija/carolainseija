@@ -6,7 +6,7 @@
 
 ###### DESDE Montevideo UY! 
 
-Skills//Experiencia:  JS / REACT / NextJs / HTML / CSS/ Bootstrap4
+Skills//Experiencia:  JS / REACT / NextJs / HTML / CSS/ Bootstrap4 / Firebase
 
 
 
